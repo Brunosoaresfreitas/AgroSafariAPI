@@ -10,7 +10,7 @@
 * [Tecnologias](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#%EF%B8%8F-tecnologias)
 * [Prints da API documentada no Swagger](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#documenta%C3%A7%C3%A3o-da-api)
 * [Autores](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#%EF%B8%8F-autores)
-* [Acessar o Projeto]([#-acesso-ao-projeto](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#-acesso-ao-projeto))
+* [Acessar o Projeto](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#-acesso-ao-projeto)
 
 ## 💻 Sobre o projeto
 
@@ -91,10 +91,13 @@ As seguintes tecnologias e métodos foram utilizadas durante o desenvolvimento d
 
 ## Documentação da API 
 
+### Endpoints:
 * Endpoints 1/2:
 ![Imagem dos endpoints1](./Prints/Tela1API.png)
 * Endpoints 2/2:
 ![Imagem dos endpoints2](./Prints/Tela2API.png)
+
+### Client / ServiceProvider (Terá somente os exemplos utilizando o client pois os endpoints dos ServiceProviders são os mesmos)
 * Get Client (Obter todos os clientes cadastrados):
 ![Get Client](./Prints/GetClient.png)
 * Post Client (Cadastrar um novo cliente):
@@ -107,6 +110,24 @@ As seguintes tecnologias e métodos foram utilizadas durante o desenvolvimento d
 ![Delete Client](./Prints/DeleteClient.png)
 * Put Client (Realizar o login do cliente, aonde será gerado uma chave de autenticação JWT):
 ![Login Client](./Prints/LoginClient.png)
+
+### Service (Serviço)
+* Get Service (Obter todos os serviços cadastrados):
+![Get Services](./Prints/GetServices.png)
+* Post Service (Cadastrar um novo serviço):
+![Post Service](./Prints/PostServices.png)
+* Get Service By Id (Obter um serviço pelo seu Id):
+![Get Service By Id](./Prints/GetServiceById.png)
+* Put Service (Atualizar o dado de um determinado serviço passando o seu Id):
+![Put Services](./Prints/PutServices.png)
+* Delete Service (Excluir um serviço):
+![Delete Service](./Prints/DeleteService.png)
+* Put Service (Tornar o serviço disponível, função liberado somente para o prestador de serviço):
+![Put Service](./Prints/PutMakeAvailable.png)
+* Put Service (Contratar um serviço, função liberado somente para os clientes):
+![Put Service](./Prints/PutHireService.png)
+* Get Service Status (Consultar o status de um serviço específico):
+![Get Service](./Prints/GetServiceStatusById.png)
 
 ## ✒️ Autores
 - Bruno Henrique Soares de Freitas
