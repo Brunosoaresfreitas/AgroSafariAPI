@@ -34,7 +34,7 @@ Basicamente o prestador de serviço cadastrará um serviço e o cliente pode viz
 ### 📋 Pré-requisitos
 
 Antes de executar o projeto, é necessário ter instalado em sua máquina local as seguintes ferramentas: [Git](https://git-scm.com/)
-
+Além disso, também alguma IDE, com as cargas de trabalho (pacotes) para rodar o ASP.NET Core WEB Api, podendo ser o VS Code por exemplo.
 
 
 ## 🎲 Executando a API - Passo a passo
@@ -46,8 +46,15 @@ $ git clone https://github.com/Brunosoaresfreitas/AgroSafariAPI.git
 # Tenha certeza de ter pelo menos o SDK dotnet 6 instalado:
 $ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
+# Como o banco de dados está rodando local na máquina do desenvolvedor, você terá que realizar uma pequena alteração no código do projeto para simular um banco de dados em memória, já que o banco principal esterará inacessível.
+$ Localize o projeto AgroSafari.API
+$ Logo em seguida, localize o arquivo c# com o nome Startup.cs
+$ Agora substitua o comando: 
+$    services.AddDbContext<AgroSafariDbContext>(options => options.UseSqlServer(connectionString, b => b.MigrationsAssembly("AgroSafari.API"))); 
+$ Por:
+$   services.AddDbContext<AgroSafariDbContext>(options => options.UseInMemoryDatabase("AgroSafariDatabase"));
+
 # Navegue até a pasta pasta onde se encontra o projeto da API
-$ cd AgroSafariAPI
 
 # Instale as dependências
 $ dotnet restore
