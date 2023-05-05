@@ -33,8 +33,11 @@ namespace DevFreela.API
             var connectionString = Configuration.GetConnectionString("AgroSafariCs");
 
             // Configuração do contexto do banco de dados
-            services.AddDbContext<AgroSafariDbContext>
-                (options => options.UseSqlServer(connectionString, b => b.MigrationsAssembly("AgroSafari.API")));
+            services.AddDbContext<AgroSafariDbContext>(options =>
+                options.UseInMemoryDatabase("AgroSafariDatabase"));
+
+            //services.AddDbContext<AgroSafariDbContext>
+            //    (options => options.UseSqlServer(connectionString, b => b.MigrationsAssembly("AgroSafari.API")));
 
             // Injeções de dependência dos respositórios, na qual sempre que eu referenciar uma Interface citada, utilizarei a classe que implemente os seus contratos;
             services.AddScoped<IServiceRepository, ServiceRepository>();

@@ -32,3 +32,20 @@ C:\APIs\AgroSafari-API-main\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.A
 C:\APIs\AgroSafari-API-main\AgroSafari.Application\obj\Debug\net6.0\refint\AgroSafari.Application.dll
 C:\APIs\AgroSafari-API-main\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.pdb
 C:\APIs\AgroSafari-API-main\AgroSafari.Application\obj\Debug\net6.0\ref\AgroSafari.Application.dll
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Application.deps.json
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Application.dll
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Application.pdb
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Core.dll
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Infrastructure.dll
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Core.pdb
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\bin\Debug\net6.0\AgroSafari.Infrastructure.pdb
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.dll
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\refint\AgroSafari.Application.dll
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\AgroSafari.Application.pdb
+C:\Users\Bruno\Desktop\Projeto Integrador\AgroSafariAPI\AgroSafari.Application\obj\Debug\net6.0\ref\AgroSafari.Application.dll

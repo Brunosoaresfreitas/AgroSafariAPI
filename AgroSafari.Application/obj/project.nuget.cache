@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8Lt1tNbbfkxYcV5He/ZnIhVRffeI5YhK5AkhZMEMz/wHySAYdV/LmfzlmGxJvuVzsIeEgpAUlt3wwnuDuEZlw==",
+  "dgSpecHash": "cpHnzVF6GRpHzqZh0ZU4aH7iFmKSgF+6DaQcyRDpLzlui9XUv/PACKON38RhnNI8YSE4Gzqg/JaDkhrswbYOhg==",
   "success": true,
-  "projectFilePath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\AgroSafari.Application.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\AgroSafari.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

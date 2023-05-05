@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\APIs\\AgroSafari-API-main\\AgroSafariAPI\\AgroSafari.API.csproj": {}
+    "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafariAPI\\AgroSafari.API.csproj": {}
   },
   "projects": {
-    "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\AgroSafari.Application.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\AgroSafari.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\AgroSafari.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\AgroSafari.Application.csproj",
         "projectName": "AgroSafari.Application",
-        "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\AgroSafari.Application.csproj",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\AgroSafari.Application.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj": {
-                "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj"
+              "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj"
               },
-              "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj": {
-                "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj"
+              "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj"
               }
             }
           }
@@ -77,18 +77,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj",
         "projectName": "AgroSafari.Core",
-        "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -137,18 +137,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj",
         "projectName": "AgroSafari.Infrastructure",
-        "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj": {
-                "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj"
+              "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj"
               }
             }
           }
@@ -213,18 +213,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\APIs\\AgroSafari-API-main\\AgroSafariAPI\\AgroSafari.API.csproj": {
+    "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafariAPI\\AgroSafari.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APIs\\AgroSafari-API-main\\AgroSafariAPI\\AgroSafari.API.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafariAPI\\AgroSafari.API.csproj",
         "projectName": "AgroSafari.API",
-        "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafariAPI\\AgroSafari.API.csproj",
+        "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafariAPI\\AgroSafari.API.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafariAPI\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafariAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,14 +246,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\AgroSafari.Application.csproj": {
-                "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Application\\AgroSafari.Application.csproj"
+              "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\AgroSafari.Application.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Application\\AgroSafari.Application.csproj"
               },
-              "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj": {
-                "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Core\\AgroSafari.Core.csproj"
+              "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Core\\AgroSafari.Core.csproj"
               },
-              "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj": {
-                "projectPath": "C:\\APIs\\AgroSafari-API-main\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj"
+              "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Bruno\\Desktop\\Projeto Integrador\\AgroSafariAPI\\AgroSafari.Infrastructure\\AgroSafari.Infrastructure.csproj"
               }
             }
           }
@@ -282,6 +282,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -306,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

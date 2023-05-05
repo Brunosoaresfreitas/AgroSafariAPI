@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgroSafari.API.props" />
+</Project>
