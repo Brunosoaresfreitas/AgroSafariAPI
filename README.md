@@ -34,7 +34,8 @@ Basicamente o prestador de serviço cadastrará um serviço e o cliente pode viz
 
 ### 📋 Pré-requisitos
 
-Antes de executar o projeto, é necessário ter instalado em sua máquina local as seguintes ferramentas: [Git](https://git-scm.com/)
+Antes de executar o projeto, é necessário ter instalado em sua máquina local as seguintes ferramentas: [Git](https://git-scm.com/).
+
 Além disso, também alguma IDE, com as cargas de trabalho (pacotes) para rodar o ASP.NET Core WEB Api, podendo ser o VS Code por exemplo.
 
 
