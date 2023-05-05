@@ -111,6 +111,11 @@ As seguintes tecnologias e métodos foram utilizadas durante o desenvolvimento d
 * Put Client (Realizar o login do cliente, aonde será gerado uma chave de autenticação JWT):
 ![Login Client](./Prints/LoginClient.png)
 
+### Autenticação 
+* Após realizar o login como prestador de serviço ou cliente, será gerado um token, que deverá ser utilizado para autenticar-se:
+![Autenticação/1](./Prints/Autenticação com JWT.png)
+![Autenticação/2](./Prints/Autenticação com JWT2.png)
+
 ### Service (Serviço)
 * Get Service (Obter todos os serviços cadastrados):
 ![Get Services](./Prints/GetServices.png)
