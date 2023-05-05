@@ -82,10 +82,15 @@ As seguintes tecnologias e métodos foram utilizadas durante o desenvolvimento d
 - ``Autenticação e autorização com JWT``
 
 ## ✒️ Autores
-- Bruno Henrique
+- Bruno Henrique Soares de Freitas
+- Cálamo Andret  da Silva
+- Lucas Rodrigues Chaves
+- Lucas Evangelista
+- Luís Eduardo Godinho Santos
+- Gabriel de Souza Almeida
+- Vitor Henrique
 
-<a href="https://www.linkedin.com/in/bruno-henrique-soares-de-freitas-32ab85243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Brunosoaresfreitas/AgroSafari-API).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Brunosoaresfreitas/AgroSafariAPI).
 
