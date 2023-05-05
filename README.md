@@ -4,13 +4,13 @@
 
 # Índice 
 
-* [Sobre o projeto](#-sobre-o-projeto)
-* [Funcionalidades](#-funcionalidades)
-* [Como executar](#-como-executar-o-projeto)
-* [Tecnologias](https://github.com/Brunosoaresfreitas/DevFreela/blob/main/README.md#%EF%B8%8F-tecnologias)
-* [Prints da API documentada no Swagger](#-documentação-da-API)
-* [Autores](https://github.com/Brunosoaresfreitas/DevFreela/blob/main/README.md#%EF%B8%8F-autores)
-* [Acessar o Projeto](#-acesso-ao-projeto)
+* [Sobre o projeto](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#-sobre-o-projeto)
+* [Funcionalidades](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#-sobre-o-projeto)
+* [Como executar](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#-como-executar-o-projeto)
+* [Tecnologias](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#%EF%B8%8F-tecnologias)
+* [Prints da API documentada no Swagger](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#documenta%C3%A7%C3%A3o-da-api)
+* [Autores](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#%EF%B8%8F-autores)
+* [Acessar o Projeto]([#-acesso-ao-projeto](https://github.com/Brunosoaresfreitas/AgroSafariAPI/blob/main/README.md#-acesso-ao-projeto))
 
 ## 💻 Sobre o projeto
 
