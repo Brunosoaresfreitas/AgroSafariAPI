@@ -113,8 +113,8 @@ As seguintes tecnologias e métodos foram utilizadas durante o desenvolvimento d
 
 ### Autenticação 
 * Após realizar o login como prestador de serviço ou cliente, será gerado um token, que deverá ser utilizado para autenticar-se:
-![Autenticação/1](./Prints/Autenticação com JWT.png)
-![Autenticação/2](./Prints/Autenticação com JWT2.png)
+![Autenticação/1](./Prints/AutenticacaoJWT.png)
+![Autenticação/2](./Prints/AutenticacaoJWT2.png)
 
 ### Service (Serviço)
 * Get Service (Obter todos os serviços cadastrados):
