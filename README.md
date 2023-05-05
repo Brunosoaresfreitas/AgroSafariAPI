@@ -41,7 +41,7 @@ Antes de executar o projeto, é necessário ter instalado em sua máquina local 
 
 ```
 # Clone este repositório
-$ git clone https://github.com/Brunosoaresfreitas/AgroSafari-API.git
+$ git clone https://github.com/Brunosoaresfreitas/AgroSafariAPI.git
 
 # Tenha certeza de ter pelo menos o SDK dotnet 6 instalado:
 $ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
