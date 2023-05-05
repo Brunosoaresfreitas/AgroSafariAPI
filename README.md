@@ -46,7 +46,7 @@ $ git clone https://github.com/Brunosoaresfreitas/AgroSafariAPI.git
 # Tenha certeza de ter pelo menos o SDK dotnet 6 instalado:
 $ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
-# Como o banco de dados está rodando local na máquina do desenvolvedor, você terá que realizar uma pequena alteração no código do projeto para simular um banco de dados em memória, já que o banco principal esterará inacessível.
+# Como o banco de dados está rodando local na máquina do desenvolvedor, você terá que realizar uma pequena alteração no código do projeto para simular um banco de dados em memória, já que o banco principal estarará inacessível.
 $ Localize o projeto AgroSafari.API
 $ Logo em seguida, localize o arquivo c# com o nome Startup.cs
 $ Agora substitua o comando: 
