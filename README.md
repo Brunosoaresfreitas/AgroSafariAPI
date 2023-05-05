@@ -8,6 +8,7 @@
 * [Funcionalidades](#-funcionalidades)
 * [Como executar](#-como-executar-o-projeto)
 * [Tecnologias](https://github.com/Brunosoaresfreitas/DevFreela/blob/main/README.md#%EF%B8%8F-tecnologias)
+* [Prints da API documentada no Swagger](#-documentação-da-API)
 * [Autores](https://github.com/Brunosoaresfreitas/DevFreela/blob/main/README.md#%EF%B8%8F-autores)
 * [Acessar o Projeto](#-acesso-ao-projeto)
 
@@ -87,6 +88,25 @@ As seguintes tecnologias e métodos foram utilizadas durante o desenvolvimento d
 - ``Padrão Repository``
 
 - ``Autenticação e autorização com JWT``
+
+## Documentação da API 
+
+* Endpoints 1/2:
+![Imagem dos endpoints1](./Prints/Tela1API.png)
+* Endpoints 2/2:
+![Imagem dos endpoints2](./Prints/Tela2API.png)
+* Get Client (Obter todos os clientes cadastrados):
+![Get Client](./Prints/GetClient.png)
+* Post Client (Cadastrar um novo cliente):
+![Post Client](./Prints/PostClient.png)
+* Get Client By Id (Obter um cliente pelo seu Id):
+![Get Client By Id](./Prints/GetClientById.png)
+* Put Client (Atualizar o dado de um determinado cliente passando o seu Id):
+![Put Client](./Prints/PutClient.png)
+* Delete Client (Excluir um cliente):
+![Delete Client](./Prints/DeleteClient.png)
+* Put Client (Realizar o login do cliente, aonde será gerado uma chave de autenticação JWT):
+![Login Client](./Prints/LoginClient.png)
 
 ## ✒️ Autores
 - Bruno Henrique Soares de Freitas
